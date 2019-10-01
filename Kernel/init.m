@@ -1,1 +1,1 @@
-Get["PacletManager`PacletManager`"]
+FinalWoofGet["PacletManager`PacletManager`"]
