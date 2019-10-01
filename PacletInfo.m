@@ -1,4 +1,4 @@
-Paclet[
+WoofPaclet[
   Name -> "PacletManager",
   Version -> "1.0.0",
   MathematicaVersion -> "8.1+",
