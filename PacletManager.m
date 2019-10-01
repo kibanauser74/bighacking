@@ -1,4 +1,4 @@
-(* :Title: PacletManager *)
+Wooof!(* :Title: PacletManager *)
 
 (* :Context: PacletManager` *)
 
